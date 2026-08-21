@@ -1,37 +1,49 @@
-# Hola, soy Alan Berra García
+# Hi, I'm Alan Berra García
 
-QA Engineer Jr y desarrollador de software en Puebla, México. Me especializo en pruebas web, móviles y de API, con experiencia práctica en diseño de casos, documentación de defectos reproducibles y automatización con Python, Selenium y Pytest.
+Bilingual Software Test Engineer and junior full-stack developer based in Puebla, Mexico. I test web, mobile, and REST API products and build maintainable automation with Python, Selenium, Pytest, Requests, SQL, and GitHub Actions.
 
-Mi experiencia construyendo productos con C#, .NET y tecnologías web me permite colaborar con desarrollo desde una perspectiva técnica, crítica y centrada en el usuario.
+My C#/.NET and web-development background helps me investigate failures across the stack, communicate clearly with developers, and turn product risk into practical test coverage.
 
-## En qué trabajo
+- Spanish: Native | English: C1
+- Open to remote QA, SDET, .NET, and junior full-stack opportunities worldwide
+- Open to hybrid or on-site opportunities in Puebla, Mexico
 
-- Pruebas funcionales, exploratorias, de regresión, smoke, UI, móviles y de API
-- Automatización con Python, Selenium WebDriver, Pytest y Requests
-- Diseño de casos con valores límite, particiones de equivalencia y Page Object Model
-- Validación de REST APIs, códigos HTTP, autenticación y datos en PostgreSQL
-- Desarrollo con C#, .NET 8, WPF, JavaScript, TypeScript, React y Next.js
+## Featured work
 
-## Proyectos seleccionados
+### [QA Engineering Portfolio](https://github.com/Balhoo/qa-engineering-portfolio)
 
-### [Xbox 360 Deployment Toolkit](https://github.com/Balhoo/Xbox360-Deployment-Toolkit)
-
-Aplicación WPF/.NET 8 para preparar y desplegar configuraciones de Xbox 360 RGH con transferencias FTP, validación de archivos, reportes y manejo seguro de operaciones críticas.
+Recruiter-friendly evidence of risk-based test planning, boundary and negative test design, reproducible defect reports, REST API automation with Python/Pytest/Requests, synthetic test data, and CI across Python versions.
 
 ### [Set Snatcher](https://github.com/Balhoo/Set-Snatcher)
 
-Aplicación nativa para Windows 11 enfocada en preparar sets de DJ mediante WinUI 3, yt-dlp, FFmpeg y una interfaz basada en Fluent Design.
+Native Windows 11 product built with C#, WinUI 3, yt-dlp, and FFmpeg. Includes a layered architecture, 58 automated tests, GitHub Actions, resilient HTTP 403/429 recovery, tagged releases, and privacy-conscious local data handling.
+
+### [Xbox 360 Deployment Toolkit](https://github.com/Balhoo/Xbox360-Deployment-Toolkit)
+
+WPF/.NET application for guided deployment workflows, storage safety checks, FTP transfers, remote-size validation, persistent checklists, and JSON/CSV audit reports.
 
 ### [efeuno](https://github.com/Balhoo/efeunordinario)
 
-Mi primera página web, creada como proyecto universitario con HTML, CSS, JavaScript y Bootstrap. La mantengo como registro del punto de partida de mi trayectoria y de mi evolución técnica.
+Responsive Formula 1 web experience built with HTML, CSS, JavaScript, and Bootstrap.
 
-## Formación
+## Core skills
 
-- Bootcamp de QA Engineering — TripleTen, en curso (2026)
-- Ingeniería en Sistemas Computacionales — UTEL, en curso (finalización estimada: 2027)
-- Español nativo e inglés C1
+- QA: functional, exploratory, regression, smoke, UI, mobile, API, and database testing
+- Automation: Python, Selenium WebDriver, Pytest, Requests, Page Object Model, and GitHub Actions
+- Development: C#, .NET, WinUI 3, WPF, JavaScript, TypeScript, React, Next.js, and Laravel
+- Tools: Git/GitHub, Jira, Postman, Chrome DevTools, PostgreSQL, and SQL
 
-## Contacto
+## Education
 
-[LinkedIn](https://www.linkedin.com/in/alanberragarcia) · [Portafolio en GitHub](https://github.com/Balhoo?tab=repositories)
+- QA Engineering Bootcamp — TripleTen, expected 2026
+- B.S. Computer Systems Engineering — UTEL, expected 2027
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/alanberragarcia) · [QA Portfolio](https://github.com/Balhoo/qa-engineering-portfolio) · alanberragarcia@gmail.com
+
+---
+
+## Español
+
+Soy Software Test Engineer bilingüe y desarrollador full-stack junior en Puebla, México. Tengo experiencia práctica en pruebas web, móviles, de API y base de datos, así como automatización con Python, Selenium, Pytest y Requests. Busco oportunidades remotas internacionales; para modalidades híbridas o presenciales, únicamente en Puebla.
