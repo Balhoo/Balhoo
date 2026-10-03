@@ -13,6 +13,21 @@ My C#/.NET and web-development background helps me investigate failures across t
 ### [QA Engineering Portfolio](https://github.com/Balhoo/qa-engineering-portfolio)
 
 Recruiter-friendly evidence of risk-based test planning, boundary and negative test design, reproducible defect reports, REST API automation with Python/Pytest/Requests, synthetic test data, and CI across Python versions.
+### [ChambaFlow — demo](https://balhoo.github.io/ChambaFlow-Demo/)
+
+Gestión de postulaciones, etapas, seguimientos, contactos, entrevistas y métricas. Proyecto fullstack con Next.js, TypeScript y ASP.NET Core, persistencia por cuenta, control de concurrencia y pruebas automatizadas. La demo pública usa datos ficticios locales y no ofrece cuentas.
+
+### [Checkpoint — demo](https://balhoo.github.io/Checkpoint-Demo/)
+
+Biblioteca y diario de videojuegos con estados, sesiones, estadísticas, archivado recuperable y respaldos JSON. Frontend TypeScript local-first con caché para uso sin conexión tras una primera visita exitosa y validación continua.
+
+### [ParcelPilot — demo](https://balhoo.github.io/ParcelPilot-Demo/)
+
+Laboratorio logístico original: registro de envíos, asignaciones, incidencias, entregas e historial. API ASP.NET Core/SQLite con aislamiento por cuenta y revisiones concurrentes. Validación con 12 pruebas unitarias, 31 comprobaciones HTTP y escenarios E2E en escritorio y móvil. La demo pública es una simulación local sin cuentas ni transportistas reales.
+
+El código principal de estos tres proyectos permanece privado. Las demos contienen únicamente compilaciones estáticas; no incluyen datos personales. No se presentan como servicios de producción ni como certificaciones de accesibilidad.
+
+Sitio bilingüe: [Alan Berra Garcia — QA & Software](https://balhoo.github.io/Portfolio-Demo/).
 
 ### [Set Snatcher](https://github.com/Balhoo/Set-Snatcher)
 
